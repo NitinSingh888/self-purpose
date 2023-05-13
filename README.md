@@ -1,1 +1,1 @@
-# self-purpose-myinterviewtrainer
+# self-purpose
